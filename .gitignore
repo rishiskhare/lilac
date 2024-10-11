@@ -1,0 +1,9 @@
+full_dataset/
+
+openai_key.txt
+
+Runs/
+
+result/
+
+*.ipynb
